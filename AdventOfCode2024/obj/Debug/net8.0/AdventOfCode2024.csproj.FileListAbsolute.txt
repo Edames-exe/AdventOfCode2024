@@ -1,0 +1,14 @@
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/bin/Debug/net8.0/AdventOfCode2024
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/bin/Debug/net8.0/AdventOfCode2024.deps.json
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/bin/Debug/net8.0/AdventOfCode2024.runtimeconfig.json
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/bin/Debug/net8.0/AdventOfCode2024.dll
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/bin/Debug/net8.0/AdventOfCode2024.pdb
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.GeneratedMSBuildEditorConfig.editorconfig
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.AssemblyInfoInputs.cache
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.AssemblyInfo.cs
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.csproj.CoreCompileInputs.cache
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.dll
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net8.0/refint/AdventOfCode2024.dll
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.pdb
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net8.0/AdventOfCode2024.genruntimeconfig.cache
+/Users/james/RiderProjects/AdventOfCode2024/AdventOfCode2024/obj/Debug/net8.0/ref/AdventOfCode2024.dll
